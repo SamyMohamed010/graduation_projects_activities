@@ -1,5 +1,5 @@
 # Activities 
-List all activities performed by TAs to support students in their graduations projects 
+List of all activities performed by TAs to support students in their graduations projects 
 
 Date|Day|Place|Seminar Title|TA|Resources
 ---|---|---|---|---|---
