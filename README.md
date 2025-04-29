@@ -30,7 +30,6 @@
         - Clearly list all prerequisites (software dependencies, system requirements, etc.)
         - Include any necessary configuration steps
         - Provide troubleshooting tips for common setup issues
-	- `LICENSE` Open-source license (if applicable)
 
 ### **3. Presentation Slides**
 
@@ -73,7 +72,7 @@
 
 ---
 
-### **Grading Criteria (Unofficial)**
+## **Grading Criteria (Unofficial)**
 
 - **Project-level**
 
