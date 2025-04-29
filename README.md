@@ -68,8 +68,6 @@
 
 	- Format: MP4 or YouTube link (upload to a shared drive). Should not be more than 30MB.
 
-	- Script example "_Meet [App Name] — a tool that helps [target users] to [solve problem] which has [....]_"
-
 ---
 
 ## **Grading Criteria (Unofficial)**
