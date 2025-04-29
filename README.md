@@ -1,11 +1,119 @@
-# Activities 
-List of all activities performed by TAs to support students in their graduations projects 
 
-Date|Day|Place|Seminar Title|TA|Resources
----|---|---|---|---|---
-2/20|Thursday 2‑4pm|فصل ٩  |GitHub 101: Mastering the Basics of Collaborative Coding|Mohamed Essam|[Presentation](https://drive.google.com/file/d/1nzlXG3oDzBNLxEt78IVmytKrOLtCLRkg/view?usp=sharing) [LearnGit](https://learngitbranching.js.org/)
-3/5|Wednesday 9:30-11|قاعة ١ |GitBook Essentials: Crafting Professional Documentation|Alaa Sayed Omar|[Presentation](https://github.com/AlaaSayedOmarMoawad/Documentation.git)
-TBD|TBD|TBD|Project Management|Ihab Ramadan|TBD
-TBD|TBD|TBD|Presentation Power: Engage, Influence, and Inspire Your Audience|Alla Sayed Omar + Hagar Mahmoud|TBD
+# Capstone Project Instructions
+
+## Deliverables
+
+### **1. Documentation (GitBook)**  
+- **Purpose**: Provide comprehensive documentation explaining your project’s design, architecture, implementation, and usage.  
+- **Content**:  
+  - **Introduction**: Overview of the project, its goals, and target audience.  
+  - **User Guide**: Step-by-step instructions on how to use the application.  
+  - **(Optional)**
+	  - **System Design**: High-level architecture, technologies used, data flow, UML, flowcharts, or wireframes.  
+	  - **Developer Guide**: Setup instructions, dependencies, and contribution guidelines.  
+	  - **API Documentation** (if applicable): Endpoints, request/response examples.  
+- **Format**: Hosted on [GitBook](https://www.gitbook.com/).  
+- **Why?** Helps users and future developers understand and extend your project.  
+
+### **2. Code (GitHub Repository)**
+- **Repository Structure**:  
+	- `/src` source code
+    - `/exe` executables 
+	- `README.md` Project overview + **detailed** setup instructions as follows: 
+        - Provide clear, step-by-step instructions for setting up and running your software on both Windows and macOS systems. Your guide should cover **either**:
+            - Source Code Compilation (if users need to build from source)
+                - Detailed steps to compile the project
+                - Required build tools and configurations
+            - Pre-built Executable Setup (if providing ready-to-run binaries):
+                - Download and installation process
+                - Launching the application
+        - Clearly list all prerequisites (software dependencies, system requirements, etc.)
+        - Include any necessary configuration steps
+        - Provide troubleshooting tips for common setup issues
+	- `LICENSE` Open-source license (if applicable)
+
+### **3. Presentation Slides**
+
+- **Slides Structure:**
+
+	- Title slide: Project name, team members, supervisor.
+
+	- Problem statement: What issue does your project solve? Why is it important?
+
+	- Competitors & Differentiation:
+
+		- Identify existing solutions in the market that address similar problems. Summarize their core features and limitations.
+
+		- Clearly articulate how your project differs from or improves upon these alternatives. Your Project’s Unique Value. Highlight key differentiators (e.g., enhanced features, better usability, cost efficiency). Differentiation is encouraged but not mandatory. If the project’s purpose is learning, clearly state this. If no differentiators exist, transparently state the project’s primary goal (e.g., educational exploration, proof-of-concept).
+
+	- High-Level use cases: key functionalities.
+
+	- Pitfalls & lessons learned: challenges faced and how you overcame them.
+
+	- Task management: breakdown of team contributions.
+
+- **Delivery tips:**
+
+	- Assign speaking roles to all team members.
+
+	- Practice demos to avoid technical issues during the live run.
+
+	- Font size would be large enough, text should not be dense in slides. 
+
+
+### **4. Demo Video (2–3 Minutes)**
+
+- **Content Guidelines:**
+
+	- Focus on user experience rather than technical. Showcase the key features.
+
+	- Format: MP4 or YouTube link (upload to a shared drive). Should not be more than 30MB.
+
+	- Script example "_Meet [App Name] — a tool that helps [target users] to [solve problem] which has [....]_"
 
 ---
+
+### **Grading Criteria (Unofficial)**
+
+- **Project-level**
+
+    - **Problem Statement:** Evaluates the project's relevance and feasibility. Clarity of the problem statement, motivation for the project, and the scope of work.
+    
+    - **Comprehensive Analysis of Related Work:** Provides context for the project by summarizing existing research and technologies related to the topic. To highlight what is missing in current solutions or research and to articulate how the project offers a novel approach or improvement over existing solutions.
+    
+    - **Idea Innovation:** Evaluates how innovative and complex the project is. Originality of ideas and sophistication of the implemented solution.
+    
+    - **Impact:** Evaluates how the project contributes to practical applications. Potential influence on industry practices or societal issues. Potential for publication or practical application in real-world scenarios.
+
+- **Student-Level**
+
+    - **Presentation:** Assesses how well students communicate their project. Organization of content, clarity of presentation, and ability to answer questions effectively.
+    
+    - **Discussion:** Assesses students' understanding of their project and its context. Ability to discuss methods and results comprehensively and respond to critiques.
+    
+    - **Use of Technologies:** Assesses the incorporation of new or advanced technologies. Understanding and application of technologies that are new to the student.
+
+    - **Team Work:** Assesses collaboration skills. Ability to work effectively in a team setting, demonstrating professionalism and ethical behavior.
+    
+    - **Deliverables:** Assesses the student's engagement throughout the project duration. Timeliness in meetings and deliverables, as well as overall independence in managing the project.
+    
+    - **Project Development:** Evaluates the technical execution of the project. Quality of code, adherence to coding standards, and originality of work.
+    
+    - **Deliverables:** Adherence to deadlines: Evaluates the written documentation of the project. Quality of writing, structure, completeness, and technical accuracy
+
+--- 
+
+### **Schedule and Submission Deadline**
+
+- The submission deadline is **Friday May 23rd midnight**.
+
+- The schedule will be announced soon ...
+    <!-- - Time availability for dissertation 
+        - Sat 14 June (Except Math/Comp Math 304, Comp 301)
+        - Sun 15 June (Except Phy/Comp Phy 472)
+        - Mon 16 June
+        - Tue 17 June
+        - Wed 18 June
+        - Thu 19 June -->
+
+-  Submit via ... 
