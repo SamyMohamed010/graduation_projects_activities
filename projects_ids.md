@@ -33,7 +33,7 @@
 | 31     | 131 | Student Performance Analysis                               | Stat        | د. نشوى       |
 | 32     | 32  | Event Management System                                    | CS          | د. نيفين      |
 | 33     | 33  | Flighter                                                   | CS          | د. نيفين      |
-| 34     | 34  | Motors Hub                                                 | CS          | د. نيفين      |
+| 34     | 34  | Car Zone                                                   | CS          | د. نيفين      |
 | 35     | 135 | Real Estate Search Platform                                | Stat / Math | د. نيفين      |
 | 36     | 136 | AsphaltAid: Road Issue Reporting & Fix Tracking            | Stat        | د. هويدا      |
 | 38     | 238 | Driver Alert System                                        | Phy         | د. هويدا      |
