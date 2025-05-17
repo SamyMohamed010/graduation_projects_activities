@@ -12,7 +12,7 @@
 | 10     | 110 | CogniAnalytica                                             | Stat        | د. عزة        |
 | 11     | 211 | EgyCal: Egyptian Food Calorie Tracker                      | Math / Phy  | د. عزة        |
 | 12     | 112 | Medical Data Analysis for Disease Detection                | Stat        | د. عزة        |
-| 13     | 13  | Student Assistant Guide a Gen AI Chatbot                   | CS          | د. عزة        |
+| 13     | 13  | Student Assistant Guide Chatbot                            | CS          | د. عزة        |
 | 14     | 14  | Edura                                                      | CS          | د. غادة       |
 | 15     | 115 | Pharmacist                                                 | Phy / Stat  | د. غادة       |
 | 16     | 16  | SciConnect                                                 | CS          | د. غادة       |
