@@ -104,13 +104,20 @@
 
 - The submission deadline is **Friday May 23rd midnight**.
 
-- The schedule will be announced soon ...
-    <!-- - Time availability for dissertation 
-        - Sat 14 June (Except Math/Comp Math 304, Comp 301)
-        - Sun 15 June (Except Phy/Comp Phy 472)
-        - Mon 16 June
-        - Tue 17 June
-        - Wed 18 June
-        - Thu 19 June -->
+- Schedule 
 
+    - Projects IDs can be found [here](projects_ids.md). You need the project ID (not the project serial) to know when your seminar will be. 
+
+    - The schedule is [here](schedule.md)
+        <!-- - Time availability for dissertation 
+            - Sat 14 June (Except Math/Comp Math 304, Comp 301)
+            - Sun 15 June (Except Phy/Comp Phy 472)
+            - Mon 16 June
+            - Tue 17 June
+            - Wed 18 June
+            - Thu 19 June -->
+    - Example: 
+        - Project : E-learning Platform
+        - Project ID (based on the [projects_ids](projects_ids.md) file): 119
+        - Schedule (based on the [schedule](schedule.md) file): Tuesday June 7, from 1:20 - 1:50. 
 -  Submit via ... 
