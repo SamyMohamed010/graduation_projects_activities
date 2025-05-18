@@ -119,5 +119,5 @@
     - Example: 
         - Project : E-learning Platform
         - Project ID (based on the [projects_ids](projects_ids.md) file): 119
-        - Schedule (based on the [schedule](schedule.md) file): Tuesday June 7, from 1:20 - 1:50. 
+        - Schedule (based on the [schedule](schedule.md) file): Tuesday June 17, from 1:20 - 1:50. 
 -  Submit via ... 
