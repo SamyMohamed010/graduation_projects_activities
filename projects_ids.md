@@ -24,7 +24,7 @@
 | 22     | 122 | Meal Flow                                                  | Stat / Math | د. محمد فخري  |
 | 23     | 123 | Sign Language Interpreter                                  | CS / Stat   | د. محمد فخري  |
 | 24     | 24  | Graduation Projects Grading System                         | CS          | د. محمد هاشم  |
-| 25     | 25  | International School (EduPulse)                            | CS          | د. محمد هاشم  |
+| 25     | 25  | Bedaya School                                              | CS          | د. محمد هاشم  |
 | 26     | 26  | Management System                                          | CS          | د. محمد هاشم  |
 | 27     | 27  | AI-Enhanced Online Learning Assistant                      | CS          | د. نشوى       |
 | 28     | 228 | EduShare                                                   | Phy         | د. نشوى       |
