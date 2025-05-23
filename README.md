@@ -100,7 +100,7 @@
 
 --- 
 
-### **Schedule**
+### **Schedule and Deadlines**
 
 - The submission deadline is **Friday May 23rd midnight**.
 
@@ -123,7 +123,7 @@
 
 ---
 
-### **Submission Deadline**
+### **Submission Process**
   
 - In the [link](https://sciasuedu-my.sharepoint.com/:f:/g/personal/mohamedfakhry_sci_asu_edu_eg/Ehmo_5LxdB9CmYRtQpi8DJQB2UwqIjw1GVCtiF7yEV17oQ?e=gKPPAa), you would see structure as “Day / Project_Folder”
     - Day is the day of your seminar. 
