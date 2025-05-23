@@ -100,7 +100,7 @@
 
 --- 
 
-### **Schedule and Submission Deadline**
+### **Schedule**
 
 - The submission deadline is **Friday May 23rd midnight**.
 
@@ -119,5 +119,16 @@
     - Example: 
         - Project : E-learning Platform
         - Project ID (based on the [projects_ids](projects_ids.md) file): 119
-        - Schedule (based on the [schedule](schedule.md) file): Tuesday June 17, from 1:20 - 1:50. 
--  Submit via ... 
+        - Schedule (based on the [schedule](schedule.md) file): Tuesday June 17, from 1:20 - 1:50.   
+
+---
+
+### **Submission Deadline**
+  
+- In the [link](https://sciasuedu-my.sharepoint.com/:f:/g/personal/mohamedfakhry_sci_asu_edu_eg/Ehmo_5LxdB9CmYRtQpi8DJQB2UwqIjw1GVCtiF7yEV17oQ?e=gKPPAa), you would see structure as “Day / Project_Folder”
+    - Day is the day of your seminar. 
+    - Project_Folder is formatted as “Serial-ID-ProjectTitle”. 
+  
+  For example, “Sat/ 21-121-ManagementAndQualityControlOfProductionForFactories”
+
+- In each folder you would see a `Readme.md` file, where you add your github and gitbook links. Also, you need to upload video and presentation in that folder. 
