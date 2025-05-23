@@ -125,7 +125,7 @@
 
 ### **Submission Process**
   
-- In the [link](https://sciasuedu-my.sharepoint.com/:f:/g/personal/mohamedfakhry_sci_asu_edu_eg/Ehmo_5LxdB9CmYRtQpi8DJQB2UwqIjw1GVCtiF7yEV17oQ?e=gKPPAa), you would see structure as “Day / Project_Folder”
+- In the [link](https://sciasuedu-my.sharepoint.com/:f:/g/personal/mohamedfakhry_sci_asu_edu_eg/Ehmo_5LxdB9CmYRtQpi8DJQBtipYdLMYiFLUslHVGur69Q?e=QPHqrU), you would see structure as “Day / Project_Folder”
     - Day is the day of your seminar. 
     - Project_Folder is formatted as “Serial-ID-ProjectTitle”. 
   
